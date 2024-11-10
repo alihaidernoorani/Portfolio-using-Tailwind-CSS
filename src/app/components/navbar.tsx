@@ -12,7 +12,7 @@ export default function Navbar() {
   };
 
   return (
-    <header className="fixed top-0 w-full bg-[#F3F4F6] text-gray-600 shadow-md z-50">
+    <header className="fixed top-0 w-full bg-[#F3F4F6] text-gray-600 shadow-md  z-50">
       {/* Navbar container */}
       <div className="container mx-auto flex items-center justify-between p-5">
         {/* Logo */}

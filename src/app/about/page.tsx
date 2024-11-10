@@ -7,8 +7,7 @@ export default function About () {
     <section className="text-gray-600 body-font">
     <div className="container mx-auto flex px-5 py-24 items-center justify-center   
 flex-col">
-      <h1 className="title-font sm:text-4xl text-3xl mb-4 font-medium text-gray-900">   
-
+      <h1 className="title-font sm:text-4xl text-3xl mt-12 mb-4 font-medium text-gray-900">   
         About Me
       </h1>
       <Image
@@ -23,7 +22,7 @@ flex-col">
 
           Frontend Developer
         </h1>
-        <p className="mb-8 leading-relaxed">
+        <p className="mb-8 leading-relaxed text-xl">
           I'm a web developer who crafts elegant digital experiences. My expertise lies in HTML, CSS, JavaScript, and TypeScript. I'm passionate about creating responsive, user-friendly websites that leave a lasting impression.
         </p>
         <div className="flex flex-row gap-8 sm:gap-12 justify-center">
